@@ -7,3 +7,4 @@ Nesse módulo construiremos uma aplicação front-end web completa, conectando a
     
     # dev
         - npm i @types/styled-components -D
+        - npm i -D eslint @rocketseat/eslint-config
