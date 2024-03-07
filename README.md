@@ -6,6 +6,7 @@ Nesse módulo construiremos uma aplicação front-end web completa, conectando a
     - npm i styled-components
     - npm i phosphor-react
     - npm i @radix-ui/react-dialog
+    - npm i @radix-ui/react-radio-group
     
     # dev
         - npm i @types/styled-components -D
