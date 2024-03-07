@@ -4,6 +4,7 @@ Nesse módulo construiremos uma aplicação front-end web completa, conectando a
 # Command
     - npm create vite@latest
     - npm i styled-components
+    - npm i phosphor-react
     
     # dev
         - npm i @types/styled-components -D
