@@ -7,6 +7,8 @@ Nesse módulo construiremos uma aplicação front-end web completa, conectando a
     - npm i phosphor-react
     - npm i @radix-ui/react-dialog
     - npm i @radix-ui/react-radio-group
+    - npm i react-hook-form zod
+    - npm i @hookform/resolvers 
 
 # command exec
     ## Exec json server dev-local
