@@ -1,28 +1,44 @@
 {
-    "transactions":[
-        {
-            "id":1,
-            "description":"Desenvolvimento de site",
-            "type":"income",
-            "category":"Venda",
-            "price":"14000",
-            "createdAt":"2024-03-13T19:36:44.505Z"
-        },
-        {
-            "id":1,
-            "description":"Hamburger",
-            "type":"outcome",
-            "category":"Alimentação",
-            "price":"100",
-            "createdAt":"2024-03-13T19:36:44.505Z"
-        },
-        {
-            "id":3,
-            "description":"Cartucho de impressão",
-            "type":"outcome",
-            "category":"Suprimento Impressora",
-            "price":"100",
-            "createdAt":"2024-03-13T19:36:44.505Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": "14000",
+      "createdAt": "2024-03-13T19:36:44.505Z"
+    },
+    {
+      "id": 1,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": "100",
+      "createdAt": "2024-03-13T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Cartucho de impressão",
+      "type": "outcome",
+      "category": "Suprimento Impressora",
+      "price": "100",
+      "createdAt": "2024-03-13T19:36:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 2000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-03-16T12:14:16.779Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel de nata",
+      "price": 2,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2024-03-16T12:30:57.976Z",
+      "id": 5
+    }
+  ]
 }
