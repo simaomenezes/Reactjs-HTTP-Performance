@@ -17,5 +17,5 @@ Nesse módulo construiremos uma aplicação front-end web completa, conectando a
     # dev
         - npm i @types/styled-components -D
         - npm i -D eslint @rocketseat/eslint-config
-        - npm i json-server -D
-        - npm i json-server@0.17.4 -D
+        - npm i json-server -D // essa versão está com bug na pesquisa - search query
+        - npm i json-server@0.17.4 -D // vamos utilizar esta
