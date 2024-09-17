@@ -7,7 +7,16 @@ Nesse módulo construiremos uma aplicação front-end web completa, conectando a
     - npm i phosphor-react
     - npm i @radix-ui/react-dialog
     - npm i @radix-ui/react-radio-group
+    - npm i react-hook-form zod
+    - npm i @hookform/resolvers
+    - npm i axios 
+
+# command exec
+    ## Exec json server dev-local
+        - npx json-server server.json -p 3333 -w -d 500
     
     # dev
         - npm i @types/styled-components -D
         - npm i -D eslint @rocketseat/eslint-config
+        - npm i json-server -D // essa versão está com bug na pesquisa - search query
+        - npm i json-server@0.17.4 -D // vamos utilizar esta
